@@ -1,1 +1,1 @@
-# Nethys-Webscraper
+Scrapes basic monster information from Nethys for PF2E
